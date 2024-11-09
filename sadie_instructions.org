@@ -27,22 +27,23 @@ This guide is probably too comprehensive but we just wanted to cover all bases, 
 - And 1 half (pre-cut) paxtine for her anxiety
 - The tablets will look like this:
 #+attr_html: :width 150px
-
 [[./images/Tablets.png]]
 
 - Place these on a spoon with a small amount of greek yoghurt to cover the taste and drop it from above her gullet so she eats it like a pelican
+- About this much will do (hide the tablets as best you can)
 #+attr_html: :width 150px
 [[./images/yoghurt.png]]
 - If she tastes the tablets she will spit them out and run away from you, and you may have to place them in her throat and hold her head up so she swallows
-
-
 
 * Feeding Sadie
 - Sadie needs to be fed 3 times per day
 - She will need 50 grams of Prime100 in the morning for breakfast (~8am)
 - 3/4 of a cup of Delicate Care dry food for lunch (~12pm)
+[[./images/kibble]]
 - 50 grams of Prime100 in the night (~6pm)
+[[./images/prime]]
 - This will be easiest if you cut 100g (half of the 200g line drawn on the Prime100 package) in the morning and then halve it, storing the other half in the fridge in a sealed bag to be used for dinner
+- Place it in her puzzle or red bowl etc.
 
 * Leaving Instructions
 - When leaving the house, Sadie should be in the bathroom with the following steps:
