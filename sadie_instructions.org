@@ -6,11 +6,12 @@ This guide is probably too comprehensive but we just wanted to cover all bases, 
 - The bin chute and recycling bin are found in the hallway on the right when leaving the apartment doorway.
 - Make sure the rubbish actually falls down the chute and doesnt just sit in the compartment
 - Crush boxes and other bulky recycling
-
+#+attr_html: :width 150px
+[[./images/bindoors.png]]
 * Working the oven
 - Pop out the left knob on the oven by pressing in and set it 3 clicks clockwise for fan forced. The right knob is for setting temp.
 - Don't put sadie in the oven
-#+attr_html: :width 100px
+#+attr_html: :width 150px
 [[./images/oven.png]]
 
 
@@ -24,12 +25,23 @@ This guide is probably too comprehensive but we just wanted to cover all bases, 
 - Sadie needs to have her tablets once daily, preferably in the night before bed
 - She will need two tablets of Hepatoadvance for her liver
 - And 1 half (pre-cut) paxtine for her anxiety
+#+attr_html: :width 150px
+The tablets will look like this:
+[[./images/Tablets.png]]
+
 - Place these on a spoon with a small amount of greek yoghurt to cover the taste and drop it from above her gullet so she eats it like a pelican
+#+attr_html: :width 150px
+[[./images/yoghurt.png]]
 - If she tastes the tablets she will spit them out and run away from you, and you may have to place them in her throat and hold her head up so she swallows
+
+
 
 * Feeding Sadie
 - Sadie needs to be fed 3 times per day
-- She
+- She will need 50 grams of Prime100 in the morning for breakfast (~8am)
+- 3/4 of a cup of Delicate Care dry food for lunch (~12pm)
+- 50 grams of Prime100 in the night (~6:30pm)
+- This will be easiest if you cut 100g (half of the 200g line drawn on the Prime100 package) in the morning and then halve it, storing the other half in the fridge in a sealed bag to be used for dinner
 
 * Leaving Instructions
 - When leaving the house, Sadie should be in the bathroom with the following steps:
@@ -41,9 +53,11 @@ This guide is probably too comprehensive but we just wanted to cover all bases, 
 - Both bedroom and bathroom door closed (to prevent Sadie hearing noises in the hallway and barking)
 - Obviously lock the balcony and front door
 
-* Summary
+* Summary/Notes
 - Do not walk Sadie
 - When leaving put Sadie in the bathroom and follow the leaving instructions [[[Leaving Instructions]]] section
+- Feed Sadie 3 times a day [[[Feeding Sadie]]]
+- Give Sadie her tablets once per day -- preferably in the nighttime
 - Only feed Sadie her food [Prime100, Delicate Care and Liver Treats (with restraint)] as she has allergies
 - Keep food or anything that she could quickly swallow (hair ties, etc.) off the floor
 - There's milk in the fridge and Zooper Dooper ice blocks in the freezer, help yourselves
