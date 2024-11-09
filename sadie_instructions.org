@@ -39,9 +39,9 @@ This guide is probably too comprehensive but we just wanted to cover all bases, 
 - Sadie needs to be fed 3 times per day
 - She will need 50 grams of Prime100 in the morning for breakfast (~8am)
 - 3/4 of a cup of Delicate Care dry food for lunch (~12pm)
-[[./images/kibble]]
+[[./images/kibble.png]]
 - 50 grams of Prime100 in the night (~6pm)
-[[./images/prime]]
+[[./images/prime.png]]
 - This will be easiest if you cut 100g (half of the 200g line drawn on the Prime100 package) in the morning and then halve it, storing the other half in the fridge in a sealed bag to be used for dinner
 - Place it in her puzzle or red bowl etc.
 
